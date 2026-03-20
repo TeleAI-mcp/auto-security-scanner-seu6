@@ -1,2 +1,3 @@
-# auto-security-scanner-seu6
-Automated issue comment bot repository
+# Auto Security Scanner Seu6
+
+Automated issue comment bot repository.
